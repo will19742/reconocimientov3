@@ -1,16 +1,14 @@
 /**
   ******************************************************************************
-  * @file    vr_sample_control_led.ino
-  * @author  JiapengLi
-  * @brief   This file provides a demostration on 
-              how to control led by using VoiceRecognitionModule
+  * @file    VOZ.ino
+  * @author  desarrollo de software
+
   ******************************************************************************
-  * @note:
-        voice control led
+
   ******************************************************************************
   * @section  HISTORY
     
-    2013/06/13    Initial version.
+    2022/09/05    Initial version.
   */
   
 #include <SoftwareSerial.h>
